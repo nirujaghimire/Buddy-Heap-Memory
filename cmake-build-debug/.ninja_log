@@ -1,0 +1,4 @@
+# ninja log v5
+1	187	7184821443320751	CMakeFiles/Buddy_Heap_Memory.dir/buddy_heap_test.c.obj	963011f29f796380
+9	250	7184821444090742	CMakeFiles/Buddy_Heap_Memory.dir/buddy_heap.c.obj	b6c37b0bda7b21c4
+250	522	7184821446737028	Buddy_Heap_Memory.exe	e94cf79ad4b8285e

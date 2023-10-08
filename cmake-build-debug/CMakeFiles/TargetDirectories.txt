@@ -1,0 +1,3 @@
+C:/Users/peter/OneDrive/Desktop/Github/Buddy-Heap-Memory/cmake-build-debug/CMakeFiles/Buddy_Heap_Memory.dir
+C:/Users/peter/OneDrive/Desktop/Github/Buddy-Heap-Memory/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/peter/OneDrive/Desktop/Github/Buddy-Heap-Memory/cmake-build-debug/CMakeFiles/rebuild_cache.dir

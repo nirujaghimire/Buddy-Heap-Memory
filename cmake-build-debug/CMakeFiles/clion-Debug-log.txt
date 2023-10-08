@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\peter\OneDrive\Desktop\Github\Buddy-Heap-Memory -B C:\Users\peter\OneDrive\Desktop\Github\Buddy-Heap-Memory\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/peter/OneDrive/Desktop/Github/Buddy-Heap-Memory/cmake-build-debug
