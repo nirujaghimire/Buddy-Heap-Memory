@@ -203,6 +203,9 @@ static int deallocate(BuddyHeap *heap, void *ptr) {
  * @return              : Initiated Buddy heap
  */
 static BuddyHeap new(uint8_t *buffer, int bufferSize, int minSize) {
+    for (int i = 0; i < bufferSize; ++i)
+        buffer[i]=0;
+
     int maxSize = (bufferSize * 4 * minSize) / (1 + 4 * minSize);
     int nMax = getLog2(maxSize);
     if (get2power(nMax) > maxSize)
